@@ -1,8 +1,8 @@
 # otro-prueba
 #EXTM3U
 
-#EXTINF:-1,  ESPN 2 jose jose
-https://edge9-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg-mp4a_145200_eng=20001-2318009203397554.mp4
+#EXTINF:-1,  ESPN 2 jose arcenio
+https://edge9-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 
 #EXTINF:-1,TNT Sports
 https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD-mp4a_145200_spa=20001.m3u8

@@ -40,3 +40,6 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/23_.m3u8?token=TbIWzmgwStcLT
 #EXTINF:-1,  DirecTV Sports
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/20_.m3u8?token=pQPzXgcosIxnNf_mSfNVUA&expires=1652090440&ip=190.140.131.90
 
+#EXTINF:-1,  WIN SPORTS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/8_.m3u8?token=YANV3CPoz4_VC-Fsa_eH5g&expires=1652090860&ip=190.140.131.90
+

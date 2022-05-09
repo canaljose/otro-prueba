@@ -34,8 +34,9 @@ https://edge9-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.
 #EXTINF:-1,  Fox Sports 3
 https://edge9-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 
-#EXTINF:-1,  DirecTV Sports todavia
+#EXTINF:-1,  Bein La Liga Sports
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/23_.m3u8?token=TbIWzmgwStcLTzlVkk1K6w&expires=1652090046&ip=190.140.131.90
 
-
-#EXTINF:-1,  DirecTV Sports 2 todavia
+#EXTINF:-1,  DirecTV Sports
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/20_.m3u8?token=pQPzXgcosIxnNf_mSfNVUA&expires=1652090440&ip=190.140.131.90
 

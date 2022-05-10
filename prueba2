@@ -40,4 +40,7 @@ https://edge9-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.
 #EXTINF:-1,  DeporTV
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
 
+#EXTINF:-1,  Tigo Sport
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/201_.m3u8?token=y3GQaRsPmW3yLNjUy40Bxg&expires=1652224431
+
 

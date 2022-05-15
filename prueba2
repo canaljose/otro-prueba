@@ -12,8 +12,8 @@ https://edge9-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_
 #EXTINF:-1, TyC Sports
 https://edge9-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 
-#EXTINF:-1, Espn
-https://edge9-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+#EXTINF:-1, #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-FYVcpfemo4c/YUGnQ9HvSsI/AAAAAAAAAQQ/MMr9AFOuPaQHThJkarFEJQ9OOhdaaMS5wCLcBGAsYHQ/h120/ESPN.png"group-title="España",Espn
+ https://edge9-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 
 #EXTINF:-1,  ESPN 2
 https://edge9-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8

@@ -1,8 +1,7 @@
 # otro-prueba
 #EXTM3U
 
-#EXTINF:-1,  tvg-logo= "http://television.com.ar/wp-content/uploads/2020/03/TNTSportsTw.jpg
-",TNT Sports
+#EXTINF:-1,  #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="España",TNT SPORT
 https://edge9-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
 

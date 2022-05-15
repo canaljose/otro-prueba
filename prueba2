@@ -40,7 +40,10 @@ https://edge9-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.
 #EXTINF:-1,  DeporTV
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
 
-#EXTINF:-1,  Tigo Sport
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/201_.m3u8
+#EXTINF:-1,  La liga canal 159
+https://cdn2.bestvideostudio.workers.dev/cdn/premium539/chunks.m3u8
+
+#EXTINF:-1,  directv Sport canal 158
+https://cdn2.bestvideostudio.workers.dev/cdn/fSWIcQsiVD/chunks.m3u8
 
 

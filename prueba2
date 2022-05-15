@@ -5,7 +5,7 @@
 https://edge9-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
 
-#EXTINF:-1, Fox Sports Premium
+#EXTINF:-1, #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"group-title="España",Fox Sports Premium
 https://edge9-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 
 #EXTINF:-1, TyC Sports
